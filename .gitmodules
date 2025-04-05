@@ -1,0 +1,15 @@
+[submodule "natajBackend"]
+	path = natajBackend
+	url = https://github.com/ahmadalnujaidi/natajBackend.git
+[submodule "natajSupplier"]
+	path = natajSupplier
+	url = https://github.com/ahmadalnujaidi/natajSupplier.git
+[submodule "NataJBuyer"]
+	path = NataJBuyer
+	url = https://github.com/ahmadalnujaidi/NataJBuyer.git
+[submodule "ProductionPredictersBackend"]
+	path = ProductionPredictersBackend
+	url = https://github.com/ahmadalnujaidi/ProductionPredictersBackend.git
+[submodule "ChatBotNATAJ"]
+	path = ChatBotNATAJ
+	url = https://github.com/ahmadalnujaidi/ChatBotNATAJ.git
