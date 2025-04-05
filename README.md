@@ -10,7 +10,7 @@ This is a fullstack application with separate repositories for the frontend and 
 
 ## 🚀 Live Demo
 
-[https://your-demo-url.com](https://www.youtube.com/watch?v=fZRzx70ka2A)
+[https://www.youtube.com/watch?v=fZRzx70ka2A](https://www.youtube.com/watch?v=fZRzx70ka2A)
 
 ## 🛠 Tech Stack
 
